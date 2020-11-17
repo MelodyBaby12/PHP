@@ -1,0 +1,387 @@
+                                        @media (max-width: 576px) {}
+                                        
+                                        @media (min-width: 577px) and (max-width: 767px) {}
+                                        /* ----------- Galaxy 5s ----------- */
+                                        
+                                        @media (min-width:360px) and (max-width:640px) {
+                                            .td-a {
+                                                padding: 0px;
+                                                border: 0.5px solid black;
+                                            }
+                                            .text-center-a {
+                                                padding: 0px;
+                                                width: 100%;
+                                                color: white;
+                                                background-color: rgb(87, 86, 86);
+                                                text-align: center;
+                                            }
+                                            .center-one {
+                                                width: 100%;
+                                                margin: 20px 0px 20px 0px;
+                                                padding: 5px 10px;
+                                                color: white;
+                                                font-size: 10px;
+                                                background-color: #0089ff;
+                                                background-size: 75% 50%;
+                                            }
+                                            .month {
+                                                width: 100%;
+                                                padding: 5px 12px;
+                                                border-color: #306fa500;
+                                                color: black;
+                                                background-color: #ffffff00;
+                                            }
+                                            .Totaltime {
+                                                width: 100%;
+                                                text-align: right;
+                                                color: black
+                                            }
+                                        }
+                                        /* ----------- Galaxy 5s ----------- */
+                                        /* ----------- iPhone 5 and 5S ----------- */
+                                        /* Portrait and Landscape */
+                                        
+                                        @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+                                            .td-a {
+                                                padding: 0px;
+                                            }
+                                            .text-center-a {
+                                                padding: 0px;
+                                                width: 100%;
+                                                color: white;
+                                                background-color: rgb(87, 86, 86);
+                                                text-align: center;
+                                            }
+                                            .center-one {
+                                                width: 100%;
+                                                margin: 20px 0px 20px 0px;
+                                                padding: 5px 10px;
+                                                color: white;
+                                                font-size: 10px;
+                                                background-color: #0089ff;
+                                                background-size: 75% 50%;
+                                            }
+                                            .month {
+                                                width: 100%;
+                                                padding: 5px 12px;
+                                                border-color: #306fa500;
+                                                color: black;
+                                                background-color: #ffffff00;
+                                            }
+                                            .Totaltime {
+                                                width: 100%;
+                                                text-align: right;
+                                                color: black
+                                            }
+                                        }
+                                        /* ----------- iPhone 6 ----------- */
+                                        /* Portrait and Landscape */
+                                        
+                                        @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+                                            .td-b {
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                            }
+                                            .td-a {
+                                                width: 200px;
+                                                padding: 0px 40px;
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                            }
+                                            .text-center-a {
+                                                width: 500px;
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                                color: white;
+                                                background-color: rgb(87, 86, 86);
+                                                text-align: center;
+                                            }
+                                            .center-one {
+                                                width: 100%;
+                                                margin: 20px 0px 20px 0px;
+                                                padding: 5px 10px;
+                                                color: white;
+                                                font-size: 10px;
+                                                background-color: #0089ff;
+                                            }
+                                            .month {
+                                                width: 100%;
+                                                padding: 5px 12px;
+                                                border-color: #306fa500;
+                                                color: black;
+                                                background-color: #ffffff00;
+                                            }
+                                            .Totaltime {
+                                                width: 100%;
+                                                text-align: right;
+                                                color: black
+                                            }
+                                        }
+                                        /* ----------- iPhone 6 end----------- */
+                                        /* ----------- iPad Pro ----------- */
+                                        /* Portrait and Landscape */
+                                        /* ----------- iPad Pro end----------- */
+                                        /* ----------- iPad ----------- */
+                                        /* Portrait and Landscape */
+                                        
+                                        @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+                                            .listing {
+                                                width: 665px;
+                                            }
+                                        }
+                                        
+                                        #table {
+                                            padding-right: 75px;
+                                            padding-left: 15px;
+                                        }
+                                        
+                                        .td-b {
+                                            padding: 10px;
+                                            border: 0.5px solid black;
+                                            border-collapse: collapse;
+                                        }
+                                        
+                                        .td-a {
+                                            width: 700px;
+                                            padding: 10px;
+                                            border: 0.5px solid black;
+                                            border-collapse: collapse;
+                                        }
+                                        
+                                        .text-center-a {
+                                            padding: 10px;
+                                            border: 0.5px solid black;
+                                            border-collapse: collapse;
+                                            color: white;
+                                            background-color: rgb(87, 86, 86);
+                                            text-align: center;
+                                        }
+                                        
+                                        .center-one {
+                                            width: 100%;
+                                            margin: 20px 0px 40px 0px;
+                                            padding: 5px 10px;
+                                            color: white;
+                                            font-size: 20px;
+                                            background-color: #0089ff;
+                                        }
+                                        
+                                        .div-month {
+                                            text-align: center;
+                                            font-size: 14px;
+                                            width: 100%;
+                                        }
+                                        
+                                        .month {
+                                            width: 100%;
+                                            padding: 5px 12px;
+                                            border-color: #306fa500;
+                                            color: black;
+                                            background-color: #ffffff00;
+                                        }
+                                        
+                                        .Totaltime {
+                                            width: 100%;
+                                            text-align: right;
+                                            color: black
+                                        }
+                                        /* ----------- iPad end----------- */
+                                        /* ----------- iPhone 6/7/8 ----------- */
+                                        /* Portrait and Landscape */
+                                        
+                                        @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 2) {
+                                            .td-b {
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                            }
+                                            .td-a {
+                                                width: 200px;
+                                                padding: 0px 40px;
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                            }
+                                            .text-center-a {
+                                                width: 500px;
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                                color: white;
+                                                background-color: rgb(87, 86, 86);
+                                                text-align: center;
+                                            }
+                                            .center-one {
+                                                width: 100%;
+                                                margin: 20px 0px 20px 0px;
+                                                padding: 5px 10px;
+                                                color: white;
+                                                font-size: 10px;
+                                                background-color: #0089ff;
+                                                overflow: hidden;
+                                            }
+                                            .div-month {
+                                                width: 250px;
+                                            }
+                                        }
+                                        
+                                        .month {
+                                            width: 100%;
+                                            padding: 5px 9px;
+                                            border-color: #306fa500;
+                                            color: black;
+                                            background-color: #ffffff00;
+                                        }
+                                        
+                                        .Totaltime {
+                                            overflow: hidden;
+                                            width: 100%;
+                                            text-align: right;
+                                            color: black
+                                        }
+                                        /* ----------- iPhone 6/7/8 end----------- */
+                                        
+                                        @media (min-width: 950px) and (max-width: 1280px) {
+                                            #table {
+                                                padding-right: 0px;
+                                            }
+                                            #td-b {
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                            }
+                                            .td-a {
+                                                width: 200px;
+                                                padding: 0px 40px;
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                            }
+                                            .text-center-a {
+                                                width: 500px;
+                                                border: 0.5px solid black;
+                                                border-collapse: collapse;
+                                                color: white;
+                                                background-color: rgb(87, 86, 86);
+                                                text-align: center;
+                                            }
+                                            .center-one {
+                                                width: 100%;
+                                                margin: 20px 0px 20px 0px;
+                                                padding: 5px 10px;
+                                                color: white;
+                                                font-size: 10px;
+                                                background-color: #0089ff;
+                                                overflow: hidden;
+                                                font-size: 20px;
+                                            }
+                                            .div-month {
+                                                width: 100%;
+                                                text-align: center;
+                                            }
+                                        }
+                                        
+                                        .month {
+                                            padding: 5px 9px;
+                                            border-color: #306fa500;
+                                            color: black;
+                                            background-color: #ffffff00;
+                                        }
+                                        
+                                        .Totaltime {
+                                            padding-right: 20px;
+                                            padding-top: 20px;
+                                            width: 100%;
+                                            text-align: right;
+                                            color: black
+                                        }
+                                        /* ------------Ipad pro----------------*/
+                                        
+                                        @media (min-width: 1024px) and (max-width: 1366px) {
+                                            .listing {
+                                                width: 800px;
+                                            }
+                                            .text-center-a {
+                                                width: 900px;
+                                                color: white;
+                                                background-color: rgb(87, 86, 86);
+                                                text-align: center;
+                                            }
+                                            .center-one {
+                                                width: 100%;
+                                                margin: 20px 10px 20px 0px;
+                                                padding: 5px 10px;
+                                                color: white;
+                                                font-size: 20px;
+                                                background-color: #0089ff;
+                                            }
+                                            .month {
+                                                padding: 4px 0px;
+                                                border-color: #306fa500;
+                                                color: black;
+                                                background-color: #ffffff00;
+                                            }
+                                            .Totaltime {
+                                                padding-top: 10px;
+                                                padding-right: 20px;
+                                                text-align: right;
+                                                color: black
+                                            }
+                                            /* ----------------------------*/
+                                            /* ----------------------------*/
+                                            /* ----------------------------*/
+                                            /* ----------------------------*/
+                                            /* ----------------------------*/
+                                            /* ----------------------------*/
+                                            @media (min-width: 1080px) and (max-width: 1920px) {
+                                                .r-m {
+                                                    width: 1230px;
+                                                }
+                                                #table-one {
+                                                    width: 1200px;
+                                                    padding-right: 0px;
+                                                    padding-left: 5px;
+                                                }
+                                                .td-b {
+                                                    border: 0.5px solid black;
+                                                    border-collapse: collapse;
+                                                }
+                                                .td-a {
+                                                    width: 200px;
+                                                    padding: 0px 40px;
+                                                    border: 0.5px solid black;
+                                                    border-collapse: collapse;
+                                                }
+                                                .text-center-a {
+                                                    width: 500px;
+                                                    border: 0.5px solid black;
+                                                    border-collapse: collapse;
+                                                    color: white;
+                                                    background-color: rgb(87, 86, 86);
+                                                    text-align: center;
+                                                }
+                                                .center-one {
+                                                    width: 100%;
+                                                    margin: 20px 0px 20px 0px;
+                                                    padding: 5px 10px;
+                                                    color: white;
+                                                    font-size: 20px;
+                                                    background-color: #0089ff;
+                                                    overflow: hidden;
+                                                }
+                                                .div-month {
+                                                    text-align: center;
+                                                }
+                                                .month {
+                                                    width: 100%;
+                                                    padding: 5px 9px;
+                                                    border-color: #306fa500;
+                                                    color: black;
+                                                    background-color: #ffffff00;
+                                                }
+                                                .Totaltime {
+                                                    padding-right: 20px;
+                                                    padding-top: 10px;
+                                                    overflow: hidden;
+                                                    width: 100%;
+                                                    text-align: right;
+                                                    color: black;
+                                                }
+                                            }
+                                        }
+                                        /* ----------------------------*/
